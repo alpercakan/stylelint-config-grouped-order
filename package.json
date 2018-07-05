@@ -1,0 +1,32 @@
+{
+  "name": "stylelint-config-grouped-order",
+  "version": "0.0.1",
+  "description": "Stylelint config that groups and sorts the properties",
+  "author": "Alper Çakan <alpercakan98@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpercakan/stylelint-config-grouped-order.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alpercakan/stylelint-config-grouped-order/issues"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "stylelint-order",
+    "properties-order",
+    "css property order",
+    "declaration-order",
+    "css declaration order",
+    "rational-css",
+    "order-css",
+    "order",
+    "css group"
+  ],
+  "dependencies": {
+    "stylelint-order": "^0.8.0"
+  },
+  "homepage": "https://github.com/alpercakan/stylelint-config-grouped-order"
+}
