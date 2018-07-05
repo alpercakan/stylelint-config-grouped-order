@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-grouped-order",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Stylelint config that groups and sorts the properties",
   "author": "Alper Çakan <alpercakan98@gmail.com>",
   "license": "MIT",
